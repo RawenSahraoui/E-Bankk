@@ -3,7 +3,7 @@ Bonjour a tous, je vous présente ci-dessous mon programme de gestion de comptes
 
 Description:
 
-Ce programme en C est un gestionnaire de comptes bancaires simple qui permet de créer, mettre à jour, afficher les détails, effectuer des transactions et gérer les comptes bancaires.
+Ce programme en C est un gestionnaire de comptes bancaires simples qui permet de créer, mettre à jour, afficher les détails, effectuer des transactions et gérer les comptes bancaires.
 
 Fonctionnalités:
 
